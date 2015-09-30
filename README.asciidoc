@@ -1,7 +1,5 @@
 == About Fibonacci Native
 
-== About Fibonacci Native
-
 This project was created to support Marakana's simple intro to Android NDK
 
 Great collection of code with wonder concept of optimize coding. If you are a beginner in coding & looking for simple codes to understand basic concepts, then this project is for you. And there are 4 files one is the main file and other one are the subs. And you can only access the subs by using the main file. I have designed to get more information from fibonacci sequence.
